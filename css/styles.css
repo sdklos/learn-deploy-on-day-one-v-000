@@ -4805,6 +4805,14 @@ a:visited {
     background-image: url("http://imgur.com/cDtNGGi.jpg7");
 }
 
+#susanna-danielle-cover {
+  background-image: url("http://imgur.com/NzI0Ry6.jpg");
+}
+
+#susanna-danielle-card {
+  background-image: url("http://imgur.com/ubZDUMp.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -5112,3 +5120,4 @@ a:visited {
 .clearfix:after {
     clear: both;
 }
+
